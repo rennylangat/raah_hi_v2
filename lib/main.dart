@@ -1,11 +1,25 @@
+import 'dart:developer';
+
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:get/route_manager.dart';
+import 'package:raah_hi_v2/firebase_options.dart';
 import 'package:raah_hi_v2/helpers/di_service.dart' as di_service;
 import 'package:raah_hi_v2/helpers/routes.dart';
 import 'package:raah_hi_v2/utils/app_colors.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await dotenv.load(fileName: '.env');
+
+  log("Dotenv loaded ${DefaultFirebaseOptions.currentPlatform.apiKey}");
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   await di_service.init();
+
   runApp(const RaahHi());
 }
 
