@@ -24,6 +24,9 @@ dependencies:
   cached_network_image: ^3.3.1
   firebase_core: ^2.31.1
   flutter_dotenv: ^5.1.0
+  animations: ^2.0.11
+  flutter_image_slideshow: ^0.1.6
+  expand_widget: ^3.1.1
 
 dev_dependencies:
   flutter_test:
@@ -38,6 +41,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/files/
     - .env
 
   # An image asset can refer to one or more resolution-specific "variants", see
