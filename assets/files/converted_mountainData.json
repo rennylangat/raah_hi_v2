@@ -1,0 +1,1586 @@
+[
+  {
+    "id": 1,
+    "name": "Mount Everest",
+    "images": [
+      "http://picsum.photos/711",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "China/Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Everest, standing majestically as the Earth's highest peak at an awe-inspiring elevation of 29,032 feet (8,848 meters) above sea level, resides in the heart of the Himalayas, straddling the border between Nepal and Tibet. Its imposing summit is crowned with snow and ice, a testament to the formidable challenges posed by the harsh alpine conditions. Revered as the pinnacle of mountaineering ambition, Everest attracts adventurers from across the globe, each yearning to conquer its formidable slopes and reach the \"roof of the world.\" The journey to its summit is a grueling test of physical and mental endurance, navigating treacherous icefalls, crevasses, and unpredictable weather. Everest, known locally as Sagarmatha in Nepal and Chomolungma in Tibet, carries a mystique that transcends its physical grandeur, embodying the human spirit's relentless pursuit of heights both literal and metaphorical.",
+    "altitude": "8,848.86 m (29,031.7 ft)",
+    "has_death_zone": true,
+    "first_climber": "Edmund Hillary and Tenzing Norgay",
+    "first_climbed_date": "29 May 1953",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "name": "K2",
+    "images": [
+      "http://picsum.photos/722",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pakistan",
+    "rating": 4.9,
+    "starred": false,
+    "description": "K2, the second-highest mountain on Earth at an elevation of 28,251 feet (8,611 meters), commands a formidable presence in the Karakoram Range along the Pakistan-China border. Revered as the \"Savage Mountain,\" K2 earns its nickname due to its notoriously challenging and perilous ascent. Towering spires of rock and ice characterize its jagged summit, making it an elusive and daunting objective for even the most seasoned mountaineers. The sheer technical difficulty, unpredictable weather, and frequent avalanches contribute to K2's reputation as one of the most hazardous peaks to climb. Despite the risks, the allure of conquering this majestic giant continues to draw adventurers seeking the ultimate test of skill and courage in the realm of high-altitude mountaineering.",
+    "altitude": "8,611 m (28,251 ft) ",
+    "has_death_zone": true,
+    "first_climber": "Achille Compagnoni & Lino Lacedelli",
+    "first_climbed_date": "31 July 1954",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 3,
+    "name": "Mount Kilimanjaro",
+    "images": [
+      "http://picsum.photos/733",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Tanzania",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kilimanjaro, Africa's tallest peak, rises majestically from the Tanzanian plains to an elevation of 19,341 feet (5,895 meters). This iconic stratovolcano, composed of three cones—Kibo, Mawenzi, and Shira—commands attention with its snow-capped summit glistening under the equatorial sun. Kilimanjaro's unique charm lies in its accessibility, allowing adventurers to trek through diverse ecosystems, from lush rainforests to alpine deserts, before reaching the glaciated crown of Uhuru Peak. A UNESCO World Heritage site, Kilimanjaro beckons climbers seeking both a physical challenge and a sensory journey, offering panoramic vistas that stretch across the East African landscape and a profound sense of accomplishment for those who stand atop its legendary summit.",
+    "altitude": "5,895 m (19,341 ft) ",
+    "has_death_zone": false,
+    "first_climber": "Hans Meyer and Ludwig Purtscheller",
+    "first_climbed_date": "6 October 1889",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 4,
+    "name": "Annapurna I",
+    "images": [
+      "http://picsum.photos/744",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Annapurna I, standing proudly in the Himalayas, is the 10th highest peak in the world, with an elevation of 8,091 meters (26,545 feet). Located in the Nepal Himalayas, Annapurna I is a formidable and challenging mountain for climbers, renowned for its unpredictable weather and treacherous conditions. First summited in 1950 by a French expedition led by Maurice Herzog and Louis Lachenal, Annapurna I holds a special place in mountaineering history as the first 8,000-meter peak to be conquered. The mountain's name, derived from Sanskrit, means \"Goddess of Harvests,\" reflecting its significance in the local culture. Despite its breathtaking beauty, Annapurna I poses significant risks, with a relatively high fatality rate among those attempting to reach its summit, adding to the mystique and allure of this majestic peak.",
+    "altitude": "8,091 m (26,545 ft)",
+    "has_death_zone": true,
+    "first_climber": "Maurice Herzog and Louis Lachenal",
+    "first_climbed_date": "3 June 1950",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 5,
+    "name": "Cho Oyo",
+    "images": [
+      "http://picsum.photos/755",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Cho Oyu, the sixth highest mountain in the world, rises majestically along the Nepal-Tibet border, standing at an impressive elevation of 8,188 meters (26,864 feet). Its name translates to \"Turquoise Goddess\" in Tibetan, a fitting moniker for this stunning peak with its vast glacial ice fields and towering slopes. Renowned for its relatively accessible climbing routes compared to other 8,000-meter peaks, Cho Oyu attracts mountaineers seeking to conquer one of the world's highest summits. However, despite its more manageable ascent, Cho Oyu still presents significant challenges, including crevasses, unpredictable weather, and high-altitude dangers. The mountain's allure lies not only in the thrill of the climb but also in the breathtaking views of the surrounding Himalayan landscape from its lofty summit, offering a rewarding experience for those who undertake the journey.",
+    "altitude": "8,188 m (26,864 ft)",
+    "has_death_zone": true,
+    "first_climber": " Herbert Tichy, Joseph Jöchler, Pasang Dawa Lama",
+    "first_climbed_date": "October 19, 1954",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 6,
+    "name": "Kangchenjunga",
+    "images": [
+      "http://picsum.photos/766",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Kangchenjunga, the third highest mountain in the world, stands majestically on the border of Nepal and the Indian state of Sikkim, piercing the sky at an elevation of 8,586 meters (28,169 feet). Its name translates to \"Five Treasures of Snow\" in Tibetan, referring to its five distinct peaks. This awe-inspiring massif is not only renowned for its formidable height but also for its challenging climbing routes and treacherous conditions, making it one of the most sought-after summits by experienced mountaineers. Kangchenjunga's pristine beauty, surrounded by remote valleys, glaciers, and rich biodiversity, adds to its allure, captivating adventurers and nature enthusiasts alike, while its cultural significance to the indigenous peoples of the region imbues it with a profound spiritual resonance.",
+    "altitude": "8,586 m (28,169 ft)",
+    "has_death_zone": true,
+    "first_climber": "Joe Brown and George Band",
+    "first_climbed_date": "25 May 1955",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 7,
+    "name": "Mauna Kea",
+    "images": [
+      "http://picsum.photos/777",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Hawaii",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Rising majestically from the Pacific Ocean floor, Mauna Kea, a dormant shield volcano located on the island of Hawaii, stands as the tallest mountain on Earth when measured from its base to its summit. Reaching an elevation of approximately 4,207.3 meters (13,803 feet) above sea level, its slopes are a tapestry of diverse ecosystems, from lush tropical rainforests at lower elevations to alpine desert and barren volcanic terrain near its summit. Home to a multitude of endemic species and culturally significant to native Hawaiians, Mauna Kea is also renowned for its world-class astronomical observatories perched atop its lofty peak, offering unparalleled views of the cosmos. Its serene beauty, rich biodiversity, and scientific importance make Mauna Kea a symbol of both natural wonder and human ingenuity.",
+    "altitude": "4,207.3 m (13,803 ft)",
+    "has_death_zone": false,
+    "first_climber": "Joseph F. Goodrich",
+    "first_climbed_date": "1823",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 8,
+    "name": "Dhaulagiri",
+    "images": [
+      "http://picsum.photos/788",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Dhaulagiri, the seventh highest mountain in the world, commands awe and respect with its rugged beauty and formidable presence in the Nepalese Himalayas. Rising to an elevation of 8,167 meters (26,795 feet), its icy slopes and jagged ridges pose a daunting challenge to even the most experienced mountaineers. Dhaulagiri's death zone, starting above approximately 7,500 meters (24,600 feet), presents a perilous environment where the thin air offers insufficient oxygen for human survival. In this treacherous realm, climbers face the constant threat of altitude sickness, hypothermia, and frostbite, amplifying the risks inherent in ascending this towering peak. Despite its challenges, Dhaulagiri beckons adventurers with its remote wilderness and the promise of unparalleled views from its windswept summit, making it a revered and formidable destination in the world of high-altitude mountaineering.",
+    "altitude": "8,167 m (26,795 ft)",
+    "has_death_zone": true,
+    "first_climber": " Kurt Diemberger, A. Schelbert, E. Forrer, Nawang Dorje, Nyima Dorje",
+    "first_climbed_date": "13 May 1960 ",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 9,
+    "name": "Lhotse",
+    "images": [
+      "http://picsum.photos/799",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Lhotse, the fourth highest mountain in the world, commands attention with its towering presence in the Himalayas, situated on the border between Nepal and the Tibet Autonomous Region of China. Standing at an impressive elevation of 8,516 meters (27,940 feet), Lhotse shares its awe-inspiring massif with Mount Everest, its more famous neighbor to the west. Renowned for its steep and challenging slopes, Lhotse presents a formidable ascent for mountaineers, with its sheer faces and treacherous ice formations demanding technical skill and unwavering determination. Despite its proximity to Everest, Lhotse maintains its own distinct allure, attracting adventurers seeking to conquer its lofty heights and experience the thrill of summiting one of the world's most formidable peaks.",
+    "altitude": "8,516 m (27,940 ft)",
+    "has_death_zone": true,
+    "first_climber": "Fritz Luchsinger, Ernst Reiss",
+    "first_climbed_date": "18 May 1956",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 10,
+    "name": "Shishapangma",
+    "images": [
+      "http://picsum.photos/710",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Tibet",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Shishapangma, towering at 8,027 meters (26,335 feet) above sea level, stands as the fourteenth highest peak in the world and the lowest of the fourteen eight-thousanders. Nestled within the majestic Himalayas of Tibet, it boasts a formidable presence, its name translating to crest above the grassy plains. Shishapangma's sheer slopes and icy ridges challenge even the most seasoned mountaineers, drawing adventurers from around the globe to test their skills against its unforgiving terrain. Despite its grandeur, Shishapangma remains relatively less frequented compared to its neighboring giants, preserving an aura of mystery and allure for those daring enough to undertake its ascent.",
+    "altitude": "8,027 m / 26,335 ft",
+    "has_death_zone": true,
+    "first_climber": "Xu Jing, Zhang Junyan, Wang Fuzhou, Wu Zongyue, Chen San, Soinam Dorjê, Cheng Tianliang, Migmar Zhaxi, Dorjê, Yun Deng",
+    "first_climbed_date": "2 May 1964",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 11,
+    "name": "Mount McKinley / Denali",
+    "images": [
+      "http://picsum.photos/711",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "United States (Alaska)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount McKinley, also known as Denali, stands as the highest peak in North America, soaring to an altitude of 6,190 meters (20,310 feet) above sea level. Located in Alaska, this iconic mountain offers climbers a formidable challenge with its severe weather conditions and icy slopes. Denali's sheer size and breathtaking vistas attract adventurers from around the globe, eager to test their skills against its unforgiving terrain and experience the thrill of standing on the roof of North America.",
+    "altitude": "6,190 m / 20,310 ft",
+    "has_death_zone": false,
+    "first_climber": "Hudson Stuck, Harry Karstens, Walter Harper, Robert Tatum",
+    "first_climbed_date": "7 June 1913",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 12,
+    "name": "Makalu",
+    "images": [
+      "http://picsum.photos/712",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal / Tibet",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Makalu, soaring at 8,485 meters (27,838 feet) above sea level, stands as the fifth highest peak in the world. Located in the Mahalangur Himalayas of Nepal, Makalu presents a formidable challenge to climbers with its steep faces and technical terrain. Despite its remote location and challenging conditions, Makalu attracts adventurers from around the globe, drawn to its towering summit and the sense of achievement that comes with conquering one of the world's highest peaks.",
+    "altitude": "8,485 m / 27,838 ft",
+    "has_death_zone": true,
+    "first_climber": "Jean Couzy, Lionel Terray, Jean Franco",
+    "first_climbed_date": "15 May 1955",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 13,
+    "name": "Manaslu",
+    "images": [
+      "http://picsum.photos/713",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Manaslu, standing at 8,163 meters (26,781 feet) above sea level, ranks as the eighth highest peak in the world. Located in the Mansiri Himalayas of Nepal, Manaslu offers climbers a challenging yet rewarding ascent with its steep slopes and technical terrain. Despite its formidable reputation, Manaslu's stunning beauty and cultural significance attract adventurers from around the globe, drawn to the thrill of summiting one of the world's highest peaks and experiencing the rich cultural heritage of the region.",
+    "altitude": "8,163 m / 26,781 ft",
+    "has_death_zone": true,
+    "first_climber": "Toshio Imanishi, Gyalzen Norbu",
+    "first_climbed_date": "9 May 1956",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 14,
+    "name": "Nanga Parbat",
+    "images": [
+      "http://picsum.photos/714",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pakistan",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Nanga Parbat, towering at 8,126 meters (26,660 feet) above sea level, ranks as the ninth highest peak in the world. Located in the Western Himalayas of Pakistan, Nanga Parbat presents climbers with a formidable challenge, earning the nickname 'Killer Mountain' due to its treacherous conditions and high fatality rate. Despite its dangers, Nanga Parbat's stunning beauty and sheer size continue to attract adventurers from around the globe, drawn to the thrill of conquering one of the world's most challenging peaks.",
+    "altitude": "8,126 m / 26,660 ft",
+    "has_death_zone": true,
+    "first_climber": "Hermann Buhl",
+    "first_climbed_date": "3 July 1953",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 15,
+    "name": "Gasherbrum I (Hidden Peak)",
+    "images": [
+      "http://picsum.photos/715",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pakistan / China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Gasherbrum I, also known as Hidden Peak, stands at 8,080 meters (26,510 feet) above sea level, making it the 11th highest peak in the world. Situated in the Karakoram range on the Pakistan-China border, Gasherbrum I presents a challenging climb with its steep slopes and extreme weather conditions. Despite its difficulties, the allure of conquering one of the world's highest peaks draws climbers from around the globe to its icy slopes.",
+    "altitude": "8,080 m / 26,510 ft",
+    "has_death_zone": true,
+    "first_climber": "Pete Schoening, Andy Kauffman, Tom Nevison, Richard K. Irvin",
+    "first_climbed_date": "7 July 1958",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 16,
+    "name": "Broad Peak",
+    "images": [
+      "http://picsum.photos/716",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pakistan / China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Broad Peak, soaring at 8,051 meters (26,414 feet) above sea level, stands as the 12th highest peak in the world. Located in the Karakoram range on the Pakistan-China border, Broad Peak presents climbers with a formidable challenge, with its steep faces and unpredictable weather. Despite its challenges, Broad Peak's stunning beauty and cultural significance continue to attract adventurers from around the globe, drawn to the thrill of conquering one of the world's highest peaks and experiencing the rich cultural heritage of the region.",
+    "altitude": "8,051 m / 26,414 ft",
+    "has_death_zone": true,
+    "first_climber": "Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, Hermann Buhl",
+    "first_climbed_date": "9 June 1957",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 17,
+    "name": "Gasherbrum II",
+    "images": [
+      "http://picsum.photos/717",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pakistan / China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Gasherbrum II stands at 8,035 meters (26,362 feet) above sea level, making it the 13th highest peak in the world. Situated in the Karakoram range on the Pakistan-China border, Gasherbrum II presents climbers with a formidable challenge, with its steep faces and unpredictable weather. Despite its challenges, the allure of conquering one of the world's highest peaks draws climbers from around the globe to its icy slopes.",
+    "altitude": "8,035 m / 26,362 ft",
+    "has_death_zone": true,
+    "first_climber": "Fritz Moravec, Josef Larch, Hans Willenpart",
+    "first_climbed_date": "7 July 1956",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 18,
+    "name": "Annapurna III",
+    "images": [
+      "http://picsum.photos/718",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Annapurna III, towering at 7,555 meters (24,787 feet) above sea level, is one of the peaks in the Annapurna massif, located in the Himalayas of Nepal. While not as tall as its sister peak, Annapurna I, Annapurna III still presents a significant challenge to climbers due to its technical climbing routes and unpredictable weather conditions. Despite its lower altitude compared to other eight-thousanders, Annapurna III's sheer cliffs and remote location make it a coveted objective for experienced mountaineers seeking adventure in the heart of the Himalayas.",
+    "altitude": "7,555 m / 24,787 ft",
+    "has_death_zone": false,
+    "first_climber": "Danny McCracken, Chris Bonington, Nick Estcourt, Balwant Sandhu",
+    "first_climbed_date": "6 May 1961",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 19,
+    "name": "Mount Kazbek",
+    "images": [
+      "http://picsum.photos/719",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Georgia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kazbek, rising 5,033 meters (16,512 feet) above sea level, is a dormant stratovolcano located in the Caucasus Mountains of Georgia. Renowned for its stunning beauty and rich cultural heritage, Kazbek attracts climbers and adventurers seeking to explore its rugged slopes and dramatic landscapes.",
+    "altitude": "5,033 m / 16,512 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 20,
+    "name": "Aoraki / Mount Cook (South Island, New Zealand)",
+    "images": [
+      "http://picsum.photos/720",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "New Zealand",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Cook, also known as Aoraki, is the highest peak in New Zealand, standing at 3,724 meters (12,218 feet) above sea level. Situated in the Southern Alps on the South Island, Mount Cook attracts climbers and hikers from around the world, offering breathtaking views and challenging ascents.",
+    "altitude": "3,724 m / 12,218 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 21,
+    "name": "Mount Damavand",
+    "images": [
+      "http://picsum.photos/721",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Iran",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Damavand, towering at 5,610 meters (18,406 feet) above sea level, is a dormant stratovolcano located in the Alborz mountain range of Iran. As the highest peak in Iran and the Middle East, Damavand holds cultural and symbolic significance and attracts climbers and trekkers seeking to summit its majestic peak.",
+    "altitude": "5,610 m / 18,406 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 22,
+    "name": "Mount Assiniboine",
+    "images": [
+      "http://picsum.photos/722",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Canada",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Assiniboine, often called the 'Matterhorn of the Rockies,' stands at 3,618 meters (11,870 feet) above sea level in the Canadian Rockies of British Columbia, Canada. Its pyramid-shaped peak and stunning surroundings make it a popular destination for climbers and hikers seeking pristine wilderness and breathtaking views.",
+    "altitude": "3,618 m / 11,870 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 23,
+    "name": "Mount Elbrus",
+    "images": [
+      "http://picsum.photos/723",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Russia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Elbrus, standing at 5,642 meters (18,510 feet) above sea level, is the highest peak in Europe. Located in the Caucasus Mountains of Russia, it is a dormant volcano with two summits. Mount Elbrus attracts climbers and adventurers from around the world, offering both scenic beauty and challenging ascents.",
+    "altitude": "5,642 m / 18,510 ft",
+    "has_death_zone": true,
+    "first_climber": "Khrisanf Ivanovich",
+    "first_climbed_date": "1874",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 24,
+    "name": "Mount Olympus",
+    "images": [
+      "http://picsum.photos/724",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Greece",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Olympus, legendary home of the ancient Greek gods, stands at 2,918 meters (9,573 feet) above sea level. Located in northeastern Greece, it is the highest mountain in Greece and offers breathtaking views of the surrounding landscape and the Aegean Sea.",
+    "altitude": "2,918 m / 9,573 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 25,
+    "name": "Mount Fuji",
+    "images": [
+      "http://picsum.photos/725",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Japan",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Fuji, Japan's highest peak, stands at 3,776 meters (12,389 feet) above sea level. An iconic symbol of Japan, Mount Fuji is an active stratovolcano that attracts millions of visitors each year who come to admire its symmetrical cone and stunning beauty.",
+    "altitude": "3,776 m / 12,389 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 26,
+    "name": "Mount Whitney",
+    "images": [
+      "http://picsum.photos/726",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "United States (California)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Whitney, the tallest mountain in the contiguous United States, reaches an elevation of 4,421 meters (14,505 feet). Located in the Sierra Nevada of California, it offers stunning views of the surrounding wilderness and is a popular destination for hikers and climbers.",
+    "altitude": "4,421 m / 14,505 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 27,
+    "name": "Mount Hallasan",
+    "images": [
+      "http://picsum.photos/727",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "South Korea (Jeju Island)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Hallasan, located on Jeju Island, is the highest mountain in South Korea. It is a shield volcano and a UNESCO World Heritage Site. Hallasan offers various hiking trails and stunning views of the surrounding landscape, including crater lakes and unique flora and fauna.",
+    "altitude": "1,947 m / 6,388 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 28,
+    "name": "Seoraksan",
+    "images": [
+      "http://picsum.photos/728",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "South Korea (Gangwon Province)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Seoraksan, located in the northeastern part of South Korea, is one of the country's most iconic mountains. It is part of the Taebaek mountain range and is known for its breathtaking rock formations, dense forests, and clear streams. Seoraksan is a popular destination for hiking and offers spectacular views, particularly during the fall foliage season.",
+    "altitude": "1,708 m / 5,604 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 29,
+    "name": "Jirisan",
+    "images": [
+      "http://picsum.photos/729",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "South Korea (South Jeolla Province)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Jirisan, located in the southern region of South Korea, is the country's largest mountain range. It is revered in Korean culture and is home to several temples and historical sites. Jirisan offers diverse ecosystems, including old-growth forests, alpine meadows, and waterfalls, making it a popular destination for hiking, trekking, and cultural exploration.",
+    "altitude": "1,915 m / 6,283 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 30,
+    "name": "Baekdudaegan",
+    "images": [
+      "http://picsum.photos/730",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "South Korea (and North Korea)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Baekdudaegan, also known as the 'spine of Korea,' is a mountain range that stretches along the length of the Korean Peninsula. It is considered a symbol of Korean identity and cultural heritage, and it encompasses numerous peaks, including Mount Paektu in North Korea and Hallasan in South Korea. Baekdudaegan is significant ecologically, culturally, and historically, and it offers a wide range of outdoor activities, including hiking, birdwatching, and cultural exploration.",
+    "altitude": "Varies",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 31,
+    "name": "Mount Liamuiga",
+    "images": [
+      "http://picsum.photos/731",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Saint Kitts and Nevis",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Liamuiga, also known as Mount Misery, is the highest peak on the island of Saint Kitts in the Caribbean. This dormant volcano offers adventurous hiking trails through lush rainforests and past volcanic craters. The summit provides panoramic views of the island and surrounding ocean.",
+    "altitude": "1,156 m / 3,792 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 32,
+    "name": "Blue Mountain Peak",
+    "images": [
+      "http://picsum.photos/732",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Jamaica",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Blue Mountain Peak is the highest point in Jamaica and the Blue Mountains range. Trekking to the summit offers a rewarding experience through coffee plantations, misty forests, and stunning vistas. On clear days, hikers can see both the north and south coasts of Jamaica from this vantage point.",
+    "altitude": "2,256 m / 7,402 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 33,
+    "name": "La Grande Soufrière",
+    "images": [
+      "http://picsum.photos/733",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Guadeloupe",
+    "rating": 4.9,
+    "starred": false,
+    "description": "La Grande Soufrière is an active stratovolcano located on the island of Basse-Terre in Guadeloupe. Hiking to its summit offers breathtaking views of the island and the Caribbean Sea. The volcano's crater is home to sulfur vents and boiling springs.",
+    "altitude": "1,467 m / 4,813 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 34,
+    "name": "Piton des Neiges",
+    "images": [
+      "http://picsum.photos/734",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Réunion (France)",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Piton des Neiges is the highest peak in the French overseas department of Réunion. This extinct volcano offers challenging hiking trails through rugged terrain and lush vegetation. At the summit, hikers can witness breathtaking sunrise views over the island.",
+    "altitude": "3,071 m / 10,069 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 35,
+    "name": "Mount Hillaby",
+    "images": [
+      "http://picsum.photos/735",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Barbados",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Hillaby is the highest point on the island of Barbados, reaching an elevation of 336 meters (1,102 feet) above sea level. While not a traditional mountain peak, it offers panoramic views of the island's picturesque landscape and surrounding coastline. Visitors can drive or hike to the summit to enjoy the scenic vistas.",
+    "altitude": "336 m / 1,102 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 36,
+    "name": "Mount Kosciuszko",
+    "images": [
+      "http://picsum.photos/736",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "New South Wales, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kosciuszko is the highest mountain in Australia, located in the Snowy Mountains of New South Wales. Despite its relatively modest elevation, reaching 2,228 meters (7,310 feet) above sea level, it offers stunning alpine scenery and diverse flora and fauna. Visitors can hike to the summit, which is accessible via various walking trails, including the popular Kosciuszko Walk.",
+    "altitude": "2,228 m / 7,310 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 37,
+    "name": "Matterhorn",
+    "images": [
+      "http://picsum.photos/737",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Switzerland/Italy",
+    "rating": 4.9,
+    "starred": false,
+    "description": "The Matterhorn, known as the 'Mountain of Mountains,' is one of the most iconic peaks in the Alps, straddling the border between Switzerland and Italy. Its distinctive pyramidal shape and challenging climbing routes have made it a symbol of alpinism. The first ascent in 1865 marked the beginning of modern mountaineering.",
+    "altitude": "4,478 m / 14,692 ft",
+    "has_death_zone": true,
+    "first_climber": "Edward Whymper",
+    "first_climbed_date": "14 July 1865",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 38,
+    "name": "Mont Blanc",
+    "images": [
+      "http://picsum.photos/738",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "France/Italy",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mont Blanc, the highest peak in the Alps, straddles the border between France and Italy. Standing at 4,808.7 meters (15,777 feet) above sea level, it offers breathtaking views and challenging climbing routes. Mont Blanc is a popular destination for mountaineers and outdoor enthusiasts.",
+    "altitude": "4,808.7 m / 15,777 ft",
+    "has_death_zone": true,
+    "first_climber": "Jacques Balmat, Michel-Gabriel Paccard",
+    "first_climbed_date": "8 August 1786",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 39,
+    "name": "Mount Vesuvius",
+    "images": [
+      "http://picsum.photos/739",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Italy",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Vesuvius is a stratovolcano located in the Gulf of Naples in Italy. It is famous for its eruption in AD 79, which destroyed the Roman cities of Pompeii and Herculaneum. Today, Vesuvius is a popular tourist destination and offers visitors the opportunity to hike to the crater rim and explore its volcanic history.",
+    "altitude": "1,281 m / 4,203 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 40,
+    "name": "Mount Etna",
+    "images": [
+      "http://picsum.photos/740",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Italy",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Etna, located on the east coast of Sicily in Italy, is one of the world's most active volcanoes. It is known for its frequent eruptions and unique landscape, which includes lava flows, ash plains, and volcanic craters. Mount Etna is also a UNESCO World Heritage Site and a popular destination for hiking and sightseeing.",
+    "altitude": "3,329 m / 10,922 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 41,
+    "name": "Mount Kenya",
+    "images": [
+      "http://picsum.photos/741",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Kenya",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kenya is the highest mountain in Kenya and the second-highest peak in Africa. It is an extinct stratovolcano with multiple peaks, including Batian, Nelion, and Lenana. Mount Kenya is renowned for its diverse ecosystems, including glaciers, alpine meadows, and equatorial forests, making it a UNESCO World Heritage Site and a popular destination for climbers and trekkers.",
+    "altitude": "5,199 m / 17,057 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 42,
+    "name": "Mount Toubkal",
+    "images": [
+      "http://picsum.photos/742",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Morocco",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Toubkal is the highest peak in the Atlas Mountains and North Africa. Located in Morocco, it offers challenging trekking opportunities and panoramic views of the surrounding landscapes. Climbing Mount Toubkal is a popular adventure for outdoor enthusiasts and travelers exploring the region.",
+    "altitude": "4,167 m / 13,671 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 43,
+    "name": "Mount Ararat",
+    "images": [
+      "http://picsum.photos/743",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Turkey",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Ararat is the tallest peak in Turkey and is located near the border with Armenia and Iran. It is a dormant volcanic cone and is known for its biblical significance as the supposed resting place of Noah's Ark. Climbing Mount Ararat offers stunning views of the surrounding landscapes and is a popular pilgrimage site for tourists and religious travelers.",
+    "altitude": "5,137 m / 16,854 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 44,
+    "name": "Mount Pico",
+    "images": [
+      "http://picsum.photos/744",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Portugal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Pico is the highest peak in Portugal and the Azores archipelago. It is located on the island of Pico and is an iconic landmark in the region. Climbing Mount Pico offers panoramic views of the Atlantic Ocean and neighboring islands, making it a popular destination for hikers and adventurers.",
+    "altitude": "2,351 m / 7,713 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 45,
+    "name": "Mount Ojos del Salado",
+    "images": [
+      "http://picsum.photos/745",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Chile/Argentina",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Ojos del Salado is the highest volcano in the world and the second-highest peak in both the Andes and the Western Hemisphere. It straddles the border between Chile and Argentina and is part of the Central Volcanic Zone of the Andes. Climbing Mount Ojos del Salado is a challenging expedition due to its extreme altitude and remote location.",
+    "altitude": "6,893 m / 22,615 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 46,
+    "name": "Mount Sumbing",
+    "images": [
+      "http://picsum.photos/746",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Indonesia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Sumbing is the second-highest peak in Central Java, Indonesia, and is part of the Dieng Volcanic Complex. It is a stratovolcano with a symmetrical cone and offers stunning views of the surrounding landscapes, including other volcanic peaks and lush valleys. Climbing Mount Sumbing is a popular adventure for outdoor enthusiasts and trekkers.",
+    "altitude": "3,371 m / 11,060 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 47,
+    "name": "Mount Elgon",
+    "images": [
+      "http://picsum.photos/747",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Uganda/Kenya",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Elgon is an extinct shield volcano located on the border between Uganda and Kenya. It is the eighth-highest mountain in Africa and offers diverse ecosystems, including montane forests, alpine moorlands, and unique flora and fauna. Climbing Mount Elgon provides opportunities for adventure and exploration in a remote and scenic wilderness.",
+    "altitude": "4,321 m / 14,178 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 48,
+    "name": "Mount Aspiring / Tititea",
+    "images": [
+      "http://picsum.photos/748",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "New Zealand",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Aspiring, also known as Tititea, is one of New Zealand's highest peaks, located in the Southern Alps on the South Island. It is part of the Mount Aspiring National Park and offers challenging climbing routes and stunning alpine scenery. Mount Aspiring is a popular destination for mountaineers, hikers, and outdoor enthusiasts.",
+    "altitude": "3,033 m / 9,951 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 49,
+    "name": "Mount Wilhelm",
+    "images": [
+      "http://picsum.photos/749",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Papua New Guinea",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Wilhelm is the highest peak in Papua New Guinea and the highest mountain in Oceania outside of Australia and New Zealand. Located in the Bismarck Range, it offers challenging trekking and climbing opportunities, as well as stunning views of the surrounding landscapes. Mount Wilhelm is a significant natural and cultural landmark in Papua New Guinea.",
+    "altitude": "4,509 m / 14,793 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 50,
+    "name": "Mount Taranaki / Egmont",
+    "images": [
+      "http://picsum.photos/750",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "New Zealand",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Taranaki, also known as Mount Egmont, is an active stratovolcano located on the west coast of New Zealand's North Island. It is an iconic feature of the region, with its symmetrical cone and surrounding Egmont National Park offering stunning landscapes for hiking, skiing, and outdoor recreation. Mount Taranaki is considered sacred by the Māori people and features prominently in their legends and traditions.",
+    "altitude": "2,518 m / 8,261 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 51,
+    "name": "Mount Yasur",
+    "images": [
+      "http://picsum.photos/751",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Vanuatu",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Yasur is an active stratovolcano located on Tanna Island in Vanuatu. It is known for its persistent strombolian activity, with frequent explosions that provide spectacular displays of lava and ash. Mount Yasur is accessible to visitors, who can witness its volcanic activity from designated viewing areas.",
+    "altitude": "361 m / 1,184 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 52,
+    "name": "Mount Kerinci",
+    "images": [
+      "http://picsum.photos/752",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Indonesia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kerinci is the highest volcano in Indonesia and the highest peak on the island of Sumatra. It is part of the Kerinci Seblat National Park and offers challenging trekking and climbing routes through dense forests and alpine terrain. Mount Kerinci is known for its biodiversity, including rare species of flora and fauna.",
+    "altitude": "3,805 m / 12,484 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 53,
+    "name": "Mount Ngauruhoe",
+    "images": [
+      "http://picsum.photos/753",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "New Zealand",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Ngauruhoe is an active stratovolcano located in New Zealand's North Island, within the Tongariro National Park. It is one of the country's most iconic peaks, known for its perfectly conical shape and frequent volcanic activity. Mount Ngauruhoe is a popular destination for hikers and climbers, offering challenging ascents and stunning views.",
+    "altitude": "2,291 m / 7,516 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 54,
+    "name": "Mount Carstensz Pyramid",
+    "images": [
+      "http://picsum.photos/754",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Indonesia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Carstensz Pyramid, also known as Puncak Jaya, is the highest peak in Oceania and one of the Seven Summits. Located in the Sudirman Range of the Papua Province, Indonesia, it is renowned for its challenging climbing routes and remote wilderness setting. Mount Carstensz Pyramid attracts climbers from around the world seeking to conquer its rugged terrain and extreme altitude.",
+    "altitude": "4,884 m / 16,024 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 55,
+    "name": "Mount Apo",
+    "images": [
+      "http://picsum.photos/755",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Apo is the highest peak in the Philippines and is located on the island of Mindanao. It is a stratovolcano and is revered as a sacred mountain by the indigenous peoples of the region. Mount Apo is a popular destination for hiking and climbing, offering stunning views of the surrounding landscapes and diverse ecosystems.",
+    "altitude": "2,954 m / 9,692 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 56,
+    "name": "Mount Tronador",
+    "images": [
+      "http://picsum.photos/756",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Argentina/Chile",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Tronador is a stratovolcano located in the Andes mountain range, straddling the border between Argentina and Chile. Its name, meaning 'Thunderer,' refers to the frequent sounds of avalanches and icefalls from its glaciers. Mount Tronador offers stunning views of the surrounding Patagonian landscape and is a popular destination for climbers and hikers.",
+    "altitude": "3,491 m / 11,453 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 57,
+    "name": "Mount Roraima",
+    "images": [
+      "http://picsum.photos/757",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Guyana/Brazil/Venezuela",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Roraima is a stunning tepui, or table-top mountain, located at the tripoint border of Guyana, Brazil, and Venezuela. It is one of the oldest geological formations on Earth and is known for its unique flat summit, which inspired Sir Arthur Conan Doyle's novel 'The Lost World.' Mount Roraima offers breathtaking landscapes and is a popular destination for adventurous trekkers.",
+    "altitude": "2,810 m / 9,219 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 58,
+    "name": "Mount Liamuiga",
+    "images": [
+      "http://picsum.photos/758",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Saint Kitts and Nevis",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Liamuiga, also known as Mount Misery, is the highest peak on the island of Saint Kitts in the Caribbean. This dormant volcano offers adventurous hiking trails through lush rainforests and past volcanic craters. The summit provides panoramic views of the island and surrounding ocean.",
+    "altitude": "1,156 m / 3,792 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 59,
+    "name": "Mount Rainier",
+    "images": [
+      "http://picsum.photos/759",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Washington, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Rainier is an iconic stratovolcano located in Washington State. It is the highest peak in the Cascade Range and is surrounded by pristine forests and alpine meadows. Mount Rainier offers numerous climbing routes, from beginner-friendly to advanced, attracting climbers and hikers from around the world.",
+    "altitude": "4,392 m / 14,411 ft",
+    "has_death_zone": true,
+    "first_climber": "P. B. Van Trump and Hazard Stevens",
+    "first_climbed_date": "August 17, 1870",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 60,
+    "name": "Mount Elbert",
+    "images": [
+      "http://picsum.photos/760",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Colorado, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Elbert is the highest peak in the Rocky Mountains of North America and the second-highest peak in the contiguous United States. Located in Colorado, it offers stunning panoramic views of the surrounding peaks and valleys. Climbing Mount Elbert is a popular activity for outdoor enthusiasts, with several trails leading to the summit.",
+    "altitude": "4,401 m / 14,440 ft",
+    "has_death_zone": false,
+    "first_climber": "Albert Bierstadt and party",
+    "first_climbed_date": "August 29, 1874",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 61,
+    "name": "Mount Massive",
+    "images": [
+      "http://picsum.photos/761",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Colorado, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Massive is the second-highest peak in the Rocky Mountains of North America and the third-highest peak in the contiguous United States. Located in Colorado, it offers challenging yet rewarding climbing routes with stunning alpine scenery. Climbing Mount Massive is a popular adventure for experienced mountaineers and hikers.",
+    "altitude": "4,398 m / 14,428 ft",
+    "has_death_zone": false,
+    "first_climber": "Henry Gannett and party",
+    "first_climbed_date": "August 29, 1873",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 62,
+    "name": "Mount Harvard",
+    "images": [
+      "http://picsum.photos/762",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Colorado, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Harvard is the third-highest peak in the Rocky Mountains of North America and the fourth-highest peak in the contiguous United States. Located in Colorado, it offers challenging yet rewarding climbing routes with stunning alpine scenery. Climbing Mount Harvard is a popular adventure for experienced mountaineers and hikers.",
+    "altitude": "4,396 m / 14,421 ft",
+    "has_death_zone": false,
+    "first_climber": "Henry Gannett and party",
+    "first_climbed_date": "July 19, 1869",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 63,
+    "name": "Mount Shasta",
+    "images": [
+      "http://picsum.photos/763",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "California, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Shasta is a prominent stratovolcano located at the southern end of the Cascade Range in California. It is one of the tallest peaks in the state and offers diverse climbing routes, including glacier travel and technical rock climbing. Mount Shasta is a popular destination for climbers, hikers, and outdoor enthusiasts.",
+    "altitude": "4,322 m / 14,179 ft",
+    "has_death_zone": false,
+    "first_climber": "Elias Pearce",
+    "first_climbed_date": "1854",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 64,
+    "name": "Mount Hood",
+    "images": [
+      "http://picsum.photos/764",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Oregon, USA",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Hood is a dormant stratovolcano located in the Cascade Range of Oregon. It is the highest peak in Oregon and offers a variety of climbing routes, from relatively straightforward ascents to challenging technical climbs. Mount Hood is a popular destination for climbers and outdoor enthusiasts throughout the year.",
+    "altitude": "3,429 m / 11,249 ft",
+    "has_death_zone": false,
+    "first_climber": "Joel Palmer",
+    "first_climbed_date": "1857",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 65,
+    "name": "Mount Kinabalu",
+    "images": [
+      "http://picsum.photos/765",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Malaysia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kinabalu is the highest mountain in Southeast Asia, located in Sabah, Malaysia. It is known for its biodiversity and is a UNESCO World Heritage Site. Climbing Mount Kinabalu is a popular activity for tourists visiting the region.",
+    "altitude": "4,095 m / 13,435 ft",
+    "has_death_zone": false,
+    "first_climber": "Sir Hugh Low",
+    "first_climbed_date": "1851",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 66,
+    "name": "Mount Tahan",
+    "images": [
+      "http://picsum.photos/766",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Malaysia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Tahan is the highest peak in Peninsular Malaysia and is located within Taman Negara National Park. It is known for its dense rainforest and diverse flora and fauna. Climbing Mount Tahan is a challenging trek that attracts adventurous hikers.",
+    "altitude": "2,187 m / 7,175 ft",
+    "has_death_zone": false,
+    "first_climber": "H. C. Carey",
+    "first_climbed_date": "1902",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 67,
+    "name": "Mount Murud",
+    "images": [
+      "http://picsum.photos/767",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Malaysia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Murud is the highest mountain in the state of Sarawak, located in Malaysian Borneo. It is part of the Kelabit Highlands and is known for its challenging trails and stunning views from the summit.",
+    "altitude": "2,423 m / 7,949 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 68,
+    "name": "Mount Korbu",
+    "images": [
+      "http://picsum.photos/768",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Malaysia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Korbu is the second highest peak in Peninsular Malaysia, located in the Titiwangsa Mountains. It is known for its challenging trekking routes and is popular among adventure enthusiasts.",
+    "altitude": "2,183 m / 7,162 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 69,
+    "name": "Mount Kanlaon",
+    "images": [
+      "http://picsum.photos/769",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Negros Occidental, Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Kanlaon is an active stratovolcano located in the province of Negros Occidental in the Philippines. It is the highest peak in the Visayas region and is known for its picturesque crater and lush forests. Mount Kanlaon is a popular destination for hikers and mountaineers, offering various trails of different difficulty levels.",
+    "altitude": "2,435 m / 7,989 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 70,
+    "name": "Mount Pulag",
+    "images": [
+      "http://picsum.photos/770",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Luzon, Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Pulag is the third highest mountain in the Philippines and is located on the island of Luzon. It is known for its scenic views, mossy forests, and grassland summit. Mount Pulag is a popular hiking destination, attracting both local and international climbers.",
+    "altitude": "2,926 m / 9,600 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 71,
+    "name": "Mount Mayon",
+    "images": [
+      "http://picsum.photos/771",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Albay, Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Mayon is an active stratovolcano located in the province of Albay in the Bicol Region of the Philippines. It is known for its perfectly symmetrical cone shape and frequent eruptions. Despite its active nature, Mount Mayon is a popular hiking destination, offering breathtaking views of the surrounding landscape.",
+    "altitude": "2,463 m / 8,081 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 72,
+    "name": "Mount Arayat",
+    "images": [
+      "http://picsum.photos/772",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Pampanga, Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Arayat is an extinct stratovolcano located in the province of Pampanga in Central Luzon, Philippines. It is known for its distinctive profile and is considered a sacred place by the indigenous people of the area. Mount Arayat is a popular hiking destination, offering trails of varying difficulty levels and panoramic views from its summit.",
+    "altitude": "1,026 m / 3,366 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 73,
+    "name": "Mount Agad-Agad",
+    "images": [
+      "http://picsum.photos/773",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Lanao del Norte, Philippines",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Agad-Agad is a prominent mountain located near the city of Iligan in the province of Lanao del Norte, Philippines. It is known for its lush greenery and panoramic views of Iligan City and its surrounding areas. Mount Agad-Agad is a popular hiking destination, offering trails suitable for both beginners and experienced hikers.",
+    "altitude": "1,641 m / 5,384 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 74,
+    "name": "Amne Machin",
+    "images": [
+      "http://picsum.photos/774",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Qinghai, China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Amne Machin is a mountain located in the province of Qinghai in China. It is the highest peak in the Amne Machin Range and is part of the Tibetan Plateau. Amne Machin is known for its rugged beauty and is considered a sacred mountain in Tibetan Buddhism. It is also an important source of several major rivers in China.",
+    "altitude": "6,282 m / 20,610 ft",
+    "has_death_zone": false,
+    "first_climber": "Joseph Rock",
+    "first_climbed_date": "1928",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 75,
+    "name": "Paektu Mountain",
+    "images": [
+      "http://picsum.photos/775",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "North Korea/China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Paektu Mountain, also known as Baekdu Mountain, is an active stratovolcano on the border between North Korea and China. It is the highest peak on the Korean Peninsula and is considered sacred in Korean mythology and culture. Paektu Mountain is known for its stunning crater lake called Heaven Lake, which sits atop the volcano's caldera. The mountain holds significant historical and cultural importance in both North Korea and South Korea.",
+    "altitude": "2,750 m / 9,022 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 76,
+    "name": "Baishi Mountain",
+    "images": [
+      "http://picsum.photos/776",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Zhejiang Province, China",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Baishi Mountain is a scenic mountain range situated in the eastern part of Zhejiang Province, China. It is known for its lush forests, picturesque landscapes, and cultural significance. Baishi Mountain is a popular destination for hiking, sightseeing, and cultural exploration. Visitors can enjoy stunning views from its peaks, explore ancient temples and shrines, and immerse themselves in the natural beauty of the area.",
+    "altitude": "1,298 m / 4,259 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 77,
+    "name": "Chomo Lonzo",
+    "images": [
+      "http://picsum.photos/777",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Tibet Autonomous Region, China / Khumbu region, Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Chomo Lonzo is a mountain in the Himalayas, located on the border between Tibet Autonomous Region, China, and the Khumbu region of Nepal. It is part of the Mahalangur Himal subrange. Chomo Lonzo is known for its challenging climbing routes and stunning views of the surrounding Himalayan peaks, including Mount Everest. Despite its impressive height, it is less well-known compared to neighboring peaks.",
+    "altitude": "7,804 m / 25,604 ft",
+    "has_death_zone": true,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 78,
+    "name": "Nuptse",
+    "images": [
+      "http://picsum.photos/778",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Khumbu region, Nepal",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Nuptse is a mountain in the Himalayas, located in the Khumbu region of Nepal. It lies two kilometers west of Mount Everest and is connected to Lhotse, the fourth highest peak in the world. Nuptse is known for its stunning appearance, with a steep, rocky peak that forms a distinctive pyramid shape. Although slightly lower than Everest, Nuptse is more technically challenging to climb due to its steep and exposed routes.",
+    "altitude": "7,861 m / 25,791 ft",
+    "has_death_zone": true,
+    "first_climber": "Dawa Nuru Sherpa, Tashi Sherpa, and Japanese climber Kazuharu Kohara",
+    "first_climbed_date": "May 16, 1961",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 79,
+    "name": "Kunyang Chhish",
+    "images": [
+      "http://picsum.photos/779",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Gilgit-Baltistan, Pakistan",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Kunyang Chhish is the second highest mountain in the Hispar Muztagh subrange of the Karakoram range, located in Gilgit-Baltistan, Pakistan. It is known for its impressive elevation and challenging climbing routes. Kunyang Chhish is part of the Snow Lake trekking route, which is popular among trekkers and climbers for its stunning scenery and remote wilderness.",
+    "altitude": "7,852 m / 25,761 ft",
+    "has_death_zone": true,
+    "first_climber": "Jill Neate, Jani Chettan Sherpa, H. Ohtake, and T. Sato",
+    "first_climbed_date": "July 10, 1971",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 80,
+    "name": "Nanda Devi",
+    "images": [
+      "http://picsum.photos/780",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Uttarakhand, India",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Nanda Devi is a majestic mountain peak in the Garhwal Himalayas of Uttarakhand, India. It is the second highest mountain in India and the highest entirely within the country's borders. Nanda Devi is known for its stunning beauty and formidable challenges, with steep, rocky terrain and unpredictable weather conditions. The mountain is considered sacred by locals and holds cultural significance in Hindu mythology.",
+    "altitude": "7,816 m / 25,643 ft",
+    "has_death_zone": true,
+    "first_climber": "Tilman and Noel Odell",
+    "first_climbed_date": "1936",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 81,
+    "name": "Mount Bogong",
+    "images": [
+      "http://picsum.photos/781",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Victoria, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Bogong is the highest mountain in Victoria, Australia, located in the Victorian Alps. It is a popular destination for hiking, skiing, and mountaineering.",
+    "altitude": "1,986 m / 6,516 ft",
+    "has_death_zone": false,
+    "first_climber": "Freda du Faur",
+    "first_climbed_date": "1894",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 82,
+    "name": "Mount Ossa",
+    "images": [
+      "http://picsum.photos/782",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Tasmania, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Ossa is the highest mountain in Tasmania, Australia, located in the Cradle Mountain-Lake St Clair National Park. It is a popular destination for bushwalking and offers stunning views of the surrounding wilderness.",
+    "altitude": "1,617 m / 5,305 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 83,
+    "name": "Mount Buffalo",
+    "images": [
+      "http://picsum.photos/783",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Victoria, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Buffalo is a mountain plateau in the Victorian Alps of Victoria, Australia. It is known for its unique rock formations, alpine meadows, and scenic views. Mount Buffalo offers a range of outdoor activities, including hiking, rock climbing, and skiing in the winter months.",
+    "altitude": "1,723 m / 5,653 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 84,
+    "name": "Mount Sonder",
+    "images": [
+      "http://picsum.photos/784",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Northern Territory, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Sonder is another prominent peak in the Northern Territory, Australia, also located in the West MacDonnell Ranges. It is famous for its stunning sunrise and sunset views, particularly from the summit, and is a popular destination for hikers and photographers.",
+    "altitude": "1,380 m / 4,528 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 85,
+    "name": "Mount Zeil",
+    "images": [
+      "http://picsum.photos/785",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Northern Territory, Australia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Zeil is the highest mountain in the Northern Territory, Australia, located in the West MacDonnell Ranges. It offers spectacular panoramic views of the surrounding desert landscape and is a popular hiking and climbing destination.",
+    "altitude": "1,531 m / 5,023 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 86,
+    "name": "Mount Korab",
+    "images": [
+      "http://picsum.photos/786",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Albania/North Macedonia",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Korab is the highest mountain in Albania and North Macedonia, located on the border between the two countries. It is part of the Prokletije mountain range and offers stunning views of the surrounding landscapes.",
+    "altitude": "2,764 m / 9,068 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 87,
+    "name": "Mount Dajti",
+    "images": [
+      "http://picsum.photos/787",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Tirana, Albania",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Dajti is a prominent mountain near Tirana, the capital city of Albania. It is a popular destination for hiking and outdoor activities, offering panoramic views of Tirana and the surrounding area.",
+    "altitude": "1,613 m / 5,292 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  },
+  {
+    "id": 88,
+    "name": "Mount Tomorr",
+    "images": [
+      "http://picsum.photos/788",
+      "http://picsum.photos/800",
+      "http://picsum.photos/900"
+    ],
+    "location": "Berat, Albania",
+    "rating": 4.9,
+    "starred": false,
+    "description": "Mount Tomorr is a sacred mountain located near Berat in southern Albania. It is considered a holy site in Albanian mythology and offers hiking opportunities as well as cultural significance.",
+    "altitude": "2,416 m / 7,927 ft",
+    "has_death_zone": false,
+    "first_climber": "Unknown",
+    "first_climbed_date": "Unknown",
+    "country_flag_img": "http://picsum.photos/200"
+  }
+]
