@@ -43,7 +43,9 @@ class _ExploreScreenState extends State<ExploreScreen> {
               ),
             ),
             IconButton(
-              onPressed: () {},
+              onPressed: () {
+                Get.toNamed(RouteHelper.createContribution);
+              },
               icon: const Icon(
                 Icons.add_circle_outline,
                 color: AppColor.primary,
