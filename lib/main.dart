@@ -4,6 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:get/route_manager.dart';
+import 'package:get_storage/get_storage.dart';
 import 'package:raah_hi_v2/firebase_options.dart';
 import 'package:raah_hi_v2/helpers/di_service.dart' as di_service;
 import 'package:raah_hi_v2/helpers/routes.dart';
@@ -17,7 +18,7 @@ void main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-
+  await GetStorage.init();
   await di_service.init();
 
   runApp(const RaahHi());

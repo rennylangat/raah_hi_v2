@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_image_slideshow/flutter_image_slideshow.dart';
 import 'package:get/get.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
-import 'package:raah_hi_v2/pages/contribute/controllers/single_destination_controller.dart';
 import 'package:raah_hi_v2/pages/contribute/models/destination_model.dart';
 import 'package:raah_hi_v2/utils/app_colors.dart';
 import 'package:raah_hi_v2/utils/size_config.dart';
@@ -23,7 +22,6 @@ class _SingleDestinatonViewState extends State<SingleDestinatonView> {
   void initState() {
     super.initState();
     destination = Get.arguments[0];
-    Get.put(SingleDestinationController());
   }
 
   @override
