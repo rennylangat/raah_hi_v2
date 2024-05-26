@@ -1,6 +1,9 @@
 # Raah V2
 
-A redeisgn of the Raa_Hi App,
+A redeisgn of the Raa_Hi App
+
+# Video Preview
+Link: https://photos.app.goo.gl/GDvc7aBdvvwPzMXb8
 
 ## Getting Started
 - Clone the project.
@@ -25,6 +28,6 @@ A redeisgn of the Raa_Hi App,
         googleMapsApiKey= '',
      ```
 
-![Video Preview](https://photos.app.goo.gl/GDvc7aBdvvwPzMXb8)
+
 
 
