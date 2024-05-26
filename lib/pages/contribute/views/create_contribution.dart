@@ -65,7 +65,9 @@ class _CreateContributionState extends State<CreateContribution> {
             ),
             actions: [
               IconButton(
-                onPressed: () {},
+                onPressed: () {
+                  showSaveDialog(context: context, controller: controller);
+                },
                 icon: const Icon(
                   Icons.check,
                   color: Colors.black,
@@ -431,6 +433,7 @@ class _CreateContributionState extends State<CreateContribution> {
                             return;
                           }
                           await controller.submitContribution();
+                          Get.back();
                         },
                         child: Container(
                           width: double.infinity,
