@@ -20,6 +20,7 @@ class AppColor {
   static const Color borderColor = Color(0xFFD0D5DD);
   static const Color textColor = Color(0xFF393939);
   static const Color greenTextColor = Color(0xFF10B981);
+  static const Color utilityOutline = Color(0xFFD0D5DD);
 
   //Shimmer Colors
   static const Color shimmerBaseColor = Color(0xFFF9F9F9);
