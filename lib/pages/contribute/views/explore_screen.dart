@@ -66,7 +66,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      "Explore",
+                      "Contributions",
                       style: interBold.copyWith(
                         fontSize: getProportionateScreenHeight(20),
                       ),
@@ -177,6 +177,44 @@ class _ExploreScreenState extends State<ExploreScreen> {
                           return RecommendCard(
                             index: index,
                             destination: controller.recommended[index],
+                          );
+                        },
+                      ),
+                    ),
+                    SizedBox(
+                      height: getProportionateScreenHeight(20),
+                    ),
+                    Row(
+                      children: [
+                        Text(
+                          "Popular",
+                          style: interBold.copyWith(
+                            fontSize: getProportionateScreenHeight(16),
+                          ),
+                        ),
+                        const Spacer(),
+                        Text(
+                          "View All",
+                          style: interRegular.copyWith(
+                            color: AppColor.primary,
+                            fontSize: getProportionateScreenHeight(12),
+                          ),
+                        ),
+                      ],
+                    ),
+                    SizedBox(
+                      height: getProportionateScreenHeight(10),
+                    ),
+                    SizedBox(
+                      height: getProportionateScreenHeight(200),
+                      width: SizeConfig.screenWidth,
+                      child: ListView.builder(
+                        itemCount: controller.popular.length,
+                        scrollDirection: Axis.horizontal,
+                        itemBuilder: (context, index) {
+                          return RecommendCard(
+                            index: index,
+                            destination: controller.popular[index],
                           );
                         },
                       ),

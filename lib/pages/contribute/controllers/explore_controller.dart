@@ -7,6 +7,7 @@ import 'package:raah_hi_v2/pages/contribute/models/destination_model.dart';
 class ExploreController extends GetxController {
   List<Destination> destination = [];
   List<Destination> recommended = [];
+  List<Destination> popular = [];
   @override
   void onInit() {
     super.onInit();
@@ -14,8 +15,12 @@ class ExploreController extends GetxController {
   }
 
   getDestination() {
-    for (int i = 0; i < 10; i++) {
-      recommended.add(destination[i]);
+    for (int i = 0; i < 20; i++) {
+      if (i.isEven) {
+        recommended.add(destination[i]);
+      } else {
+        popular.add(destination[i]);
+      }
     }
     update();
   }
